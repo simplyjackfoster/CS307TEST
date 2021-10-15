@@ -24,5 +24,7 @@ export default {
 	yellow: "#f9ca24",
 	lightBlue: "#66a3ff",
 	darkBlue: "#2b31d4",
-	yellow: "#f9ca24"
+	yellow: "#f9ca24",
+	veryLightBlue: "#f1f9ff",
+	gold: "#fce803",
 }
